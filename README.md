@@ -28,6 +28,7 @@ samples, guidance on mobile development, and a full API reference.
         How to create an infinite, lazily loaded list.
     + Part 2
         Add interactivity to a stateful widget 
-        How to create and navigate to a secodn screen 
+        How to create and navigate to a second screen using routes
         how to change the look of an app using themes 
+
 
